@@ -16,3 +16,4 @@ GO言語学習中に復習を兼ねて作成したミニゲームアプリ。
 を使用しております。
 
 # Demo 実際の画面イメージ
+![typing game](https://gyazo.com/795a81f72cbade3eab781e8c38eb2e6e)
